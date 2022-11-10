@@ -1,8 +1,8 @@
 ### Hi there 👋
 I'm a developer passionate about developing Backend with free and open source technologies from Colombia.
 
-- :computer: I’m currently working with **MySql**, **C#**,**WPF**,**Xaml** and **.Net**.
-- 🌱 I’m currently learning .NetCore, Blazor and Angular.
+- :computer: I’m currently working with **C#**, **.NetCore**, **MySql**, **Postman** and **MVC**.
+- 🌱 I’m currently learning Go, Blazor and ReactJs.
 - 🚀 I’m looking to collaborate on open source projects.
 - 📫 Reach me on: [Instagram](https://www.instagram.com/omarrodriguezsw/)
 
