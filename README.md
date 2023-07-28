@@ -4,7 +4,7 @@ I'm a developer passionate about developing Backend with free and open source te
 - :computer: I’m currently working with **C#**, **.NetCore**, **MySql**, **Postman** and **MVC**.
 - 🌱 I’m currently learning Blazor and ReactJs.
 - 🚀 I’m looking to collaborate on open source projects.
-- 📫 Reach me on: [Instagram](https://www.instagram.com/omarrodriguezsw/)
+- 📫 Reach me on: [Instagram](https://www.instagram.com/omar.rzm/)
 
 <a href="https://www.linkedin.com/in/omar-rodriguez-144229246/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
 
